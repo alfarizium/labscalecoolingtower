@@ -138,7 +138,7 @@ The final assembly resulted in a robust, portable unit meeting all educational r
 The following visual assets document the design and realization process of the cooling tower.
 
 <img width="474" height="633" alt="image" src="https://github.com/user-attachments/assets/52e6956e-602f-4a18-bbec-c86bb2a1c683" />
-<img width="355" height="633" alt="image" src="https://github.com/user-attachments/assets/9a505287-e866-47cd-9188-fbb5aec6ddeb" />
+<img width="355" height="633" alt="image" src="https://github.com/user-attachments/assets/9a505287-e866-47cd-9188-fbb5aec6ddeb" /><br>
 <img width="308" height="367" alt="image" src="https://github.com/user-attachments/assets/025b0638-d005-4969-a7e5-dbfc0dd4fb91" />
 
 
